@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rahat Mia</h2>
-<h3 align="center">🤖 AI Developer in Training  </h3>
+<h3 align="center">🤖 AI Developer in Training</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00B4D8&center=true&width=500&lines=Learning+by+Building+ AI+&+ ML;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Computer+Vision;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00B4D8&center=true&width=500&lines=Learning+by+Building+%7C+AI+%26+ML;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Computer+Vision;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
